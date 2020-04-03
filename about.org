@@ -1,0 +1,6 @@
+---
+title: About
+---
+
+I am a freelancing programmer, systems administrator and software
+architect. 
