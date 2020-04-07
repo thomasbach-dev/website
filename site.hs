@@ -17,6 +17,9 @@ main = do
     match "css/*" $ do
         route   idRoute
         compile compressCssCompiler
+    match "static/*" $ do
+        route idRoute
+        compile copyFileCompiler
     match (fromList ["about.org", "contact.org"]) $ do
         route   $ setExtension "html"
         compile $ pandocCompiler

@@ -2,7 +2,8 @@
 title: Contact
 ---
 
-You can email me personally via info at thomasbach dot dev.
+You can email me personally via info at thomasbach dot dev. You can
+find my gpg key [[./static/info-at-thomasbach.dev.pub][here]].
 
 + [[https://twitter.com/thomasbach-dev][Twitter]]
 
